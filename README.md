@@ -1,2 +1,2 @@
-# Plugin_beta
+# Volt
 An electric charging station finding Application
